@@ -1,5 +1,7 @@
 ## source code for https://twitter.com/dm4catbot
 
+## this kinda sucks and my friend made a better one using serverless stuff and google drive for file hosting take a look 📲 https://github.com/x-t/serverless-gdrive-twitter
+
 
 ### shitty tutorail
 
